@@ -2,7 +2,7 @@
 
 I'm a Systems Design Engineering student at the University of Waterloo.
 
-- 💬 My favourite programming language is Java
+- 💬 My favourite programming language is Java ☕
 - 🌱 I’m currently learning react!
 - ⚡ Fun fact: I was a competitive swimmer for over 7 years 🏊‍♀️
 - 📫 How to reach me: mafshar@uwaterloo.ca
